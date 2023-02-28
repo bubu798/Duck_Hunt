@@ -1,10 +1,11 @@
-# include "lab_m1/Tema1/Tema1.h"
+# include "Duck_Hunt.h"
 
 
 #include "core/engine.h"
 #include "utils/gl_utils.h"
 
-#include "lab_m1/lab3/transform2D.h"
+#include "lab_m1/lab3/transform2D.h" //you can find the original project here https://github.com/bubu798/EGC/tree/master/src 
+					//you have the instructions in README.md
 #include "lab_m1/lab3/object2D.h"
 
 #include <vector>
